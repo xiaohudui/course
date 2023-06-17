@@ -13,3 +13,6 @@ git --version
 ```
 
 ```
+
+### Copilot
+[github copilot start up](https://docs.github.com/en/copilot/getting-started-with-github-copilot)
