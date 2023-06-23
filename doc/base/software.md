@@ -10,8 +10,12 @@ git --version
 ```
 
 ### github
+github push 提示 username
 ```
+change https://github.com/XXXX/project.git 
+to git@github.com:XXXX/project.git
 
+open -e .git/config
 ```
 
 ### Copilot
