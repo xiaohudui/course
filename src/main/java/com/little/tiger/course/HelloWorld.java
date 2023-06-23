@@ -1,4 +1,4 @@
-package com.little.tiger.course.base;
+package com.little.tiger.course;
 
 public class HelloWorld {
     public static void main(String[] args) {
